@@ -8,11 +8,12 @@ Use Maven commands to execute tests
 
 Sample Tests: (What kinds of UI tests are included)
 
-1
+1 Test Base
 
-2
+2 Demo Smoke Test
 
-3
+
 
 
 Notes:  
+Using http://saucedemo.com platform
